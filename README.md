@@ -6,7 +6,7 @@
 
 🎓 **Recent Mechanical Engineering Graduate (Class of 2025)**
 - Passionate about building things—whether mechanical or digital!
-- Transitioning to the world of software development.
+- Transitioning to the world of web development.
 
 🌱 **Aspiring Software Developer**
 - Completed a 3-month internship as a Frontend Developer.
@@ -25,7 +25,7 @@
 - **Soft Skills:** Quick learner, problem solver, team player
 
 ## 👀 What I’m Interested In
-- Learning new things in software development
+- Learning new things in web development
 - Collaborating with passionate developers
 - Exploring emerging technologies
 
